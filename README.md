@@ -9,7 +9,7 @@
 This is my personal portfolio and project showcase website built with GitHub Pages.
 
 ## Featured Projects
-- [Project Name](https://github.com/<username>/project-name) — Brief description
+- [Project Name](https://github.com/ianli3578/project-name) — Brief description
 - [Course Repository](https://github.com/ianli3578/11501_CI001) — CI001 Course assignments
 
 ## Contact
